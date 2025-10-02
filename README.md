@@ -11,5 +11,6 @@ En voor volledigheid, op Mac:
 * Plakken op MacOS `cmd-v`
 * Knippen op MacOS `cmd-x`
 
+Zie https://superspeedluca.github.io/microbit/ als je alleen de tekst wilt lezen
 
 Doei!!!

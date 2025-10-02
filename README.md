@@ -1,6 +1,9 @@
 # SuperSpeedLuca micro:bit 
 
-Hoi, hier staan mijn *micro:bit* programma's die ik thuis heb gemaakt. Om op Windows te gebruiken moet je gewoon kopieren en plakken:
+Hoi, hier staan mijn *micro:bit* programma's die ik thuis heb gemaakt. 
+
+## TIPS en TOPS
+Om Windows te gebruiken moet je gewoon kopieren en plakken:
 
 * Kopieren op Windows `ctrl-c`
 * Plakken op Windows `ctrl-v`
@@ -11,12 +14,17 @@ En voor volledigheid, op Mac:
 * Plakken op MacOS `cmd-v`
 * Knippen op MacOS `cmd-x`
 
-Zie https://superspeedluca.github.io/microbit/ als je alleen de tekst wilt lezen
 
 # Mijn *micro:bit* programma's:
 
 ## Geluid en Licht
 https://github.com/Superspeedluca/microbit/blob/main/Geluid%20en%20licht-main.py
 Dit maakt geluid afhankelijk van de hoeveelheid licht die op de microbit valt.
+
+
+
+
+
+Zie https://superspeedluca.github.io/microbit/ als je alleen de tekst wilt lezen van deze pagina. 
 
 Doei!!!

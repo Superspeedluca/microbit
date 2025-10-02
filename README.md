@@ -12,4 +12,4 @@ En voor volledigheid, op Mac:
 * Knippen op MacOS `cmd-x`
 
 
-Doei!
+Doei!!!

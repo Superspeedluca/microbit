@@ -25,8 +25,5 @@ Dit maakt geluid afhankelijk van de hoeveelheid licht die op de microbit valt.
 
 
 
-
-
-
 > Zie https://superspeedluca.github.io/microbit/ als je alleen de tekst wilt lezen van deze pagina. 
 

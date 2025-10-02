@@ -13,4 +13,9 @@ En voor volledigheid, op Mac:
 
 Zie https://superspeedluca.github.io/microbit/ als je alleen de tekst wilt lezen
 
+# Mijn *micro:bit* programma's:
+
+https://github.com/Superspeedluca/microbit/blob/main/Geluid%20en%20licht-main.py
+Dit maakt geluid afhankelijk van de hoeveelheid licht die op de microbit valt.
+
 Doei!!!
